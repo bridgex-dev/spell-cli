@@ -1,4 +1,4 @@
-package spell
+package main
 
 import (
 	"errors"
